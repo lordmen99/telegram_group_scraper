@@ -1,6 +1,7 @@
-# Version 1.1
 <h1>If you want to contact for an error:</h1>
 <a href="https://t.me/ahmedovbotirofficial">Telegram me</a>
+
+# Version 1.1
 
 <b>tldr</b>: Adds accounts via phone number and API. If you want to add accounts only via phone, then scroll to the end. If you want more free projects like this, then please support me!
 
